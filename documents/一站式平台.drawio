@@ -229,7 +229,7 @@
         <mxCell id="9FPDRN5Og9MOIQTKryaw-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="21" source="9FPDRN5Og9MOIQTKryaw-87" target="9FPDRN5Og9MOIQTKryaw-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jU6cq3XHtNQqyiMAm8es-65" value="&lt;font color=&quot;#4277bb&quot;&gt;REST/Websocket&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9FPDRN5Og9MOIQTKryaw-91">
+        <mxCell id="jU6cq3XHtNQqyiMAm8es-65" value="&lt;font color=&quot;#4277bb&quot;&gt;REST/Websocket&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#4277bb&quot;&gt;获取合成数据&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9FPDRN5Og9MOIQTKryaw-91">
           <mxGeometry x="-0.4095" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
