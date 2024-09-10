@@ -217,7 +217,7 @@
             <mxPoint x="315" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9FPDRN5Og9MOIQTKryaw-69" value="&lt;font color=&quot;#bd4242&quot;&gt;统一认证服务&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/analytics/analytics.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" parent="21" vertex="1">
+        <mxCell id="9FPDRN5Og9MOIQTKryaw-69" value="&lt;font color=&quot;#bd4242&quot;&gt;统一认证服务&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#bd4242&quot;&gt;单点登录服务端&lt;/font&gt;&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/analytics/analytics.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" parent="21" vertex="1">
           <mxGeometry x="541" y="250" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9FPDRN5Og9MOIQTKryaw-77" value="负载均衡" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/infrastructure/edge_services.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" parent="21" vertex="1">
@@ -243,7 +243,7 @@
         <mxCell id="9FPDRN5Og9MOIQTKryaw-94" value="分布式缓存&lt;div&gt;Redis&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/data/caches.svg;" parent="21" vertex="1">
           <mxGeometry x="440" y="471" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9FPDRN5Og9MOIQTKryaw-95" value="公共服务" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/analytics/analytics.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" parent="21" vertex="1">
+        <mxCell id="9FPDRN5Og9MOIQTKryaw-95" value="公共服务&lt;div&gt;看板服务&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/analytics/analytics.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" parent="21" vertex="1">
           <mxGeometry x="331" y="247" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9FPDRN5Og9MOIQTKryaw-96" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#edc11c;strokeWidth=2;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="21" source="9FPDRN5Og9MOIQTKryaw-95" target="12" edge="1">
