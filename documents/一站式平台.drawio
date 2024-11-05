@@ -95,7 +95,7 @@
             <mxPoint x="520" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6" value="服务网关" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/management/api_management.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" parent="21" vertex="1">
+        <mxCell id="6" value="服务网关&lt;div&gt;服务网关控制台&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/management/api_management.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" parent="21" vertex="1">
           <mxGeometry x="490" y="65" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;font color=&quot;#bd4242&quot;&gt;统一认证服务&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#bd4242&quot;&gt;单点登录服务端&lt;/font&gt;&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/analytics/analytics.svg;strokeColor=#FF0000;fillColor=#FFFF66;gradientColor=none;fontColor=#4277BB;labelBackgroundColor=#ffffff;spacingTop=3;" parent="21" vertex="1">
